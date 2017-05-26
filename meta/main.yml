@@ -6,6 +6,7 @@ galaxy_info:
     - development
   description: "Role 4 (dependency chain testing)"
   min_ansible_version: 1.2
+  license: mit
   platforms:
     - name: Ubuntu
       versions:
